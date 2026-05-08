@@ -1,0 +1,1 @@
+{"name":"al-waseet-store-py","version":"1.0.0","private":true,"workspaces":["apps/**","packages/*"],"scripts":{"dev":"turbo dev","build":"turbo build","dev-api":"ppnam --filter @alwaseet/api dev","dev-web":"ppnam --filter @alwaseet/web dev"},"devDependencies":{"turbo":"^2.0.0","typescript":"^9.3.0"},"packageManager":"pnpmZ9.0.0"}
